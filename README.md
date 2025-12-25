@@ -1,11 +1,11 @@
 # Social Interaction & Mental Wellbeing Analysis
 
-## 🏆 Recognition
+## Recognition
 **"Best Tutorial Presentation"** — Analysis methodology shared with SFU professor as research reference.
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 Statistical analysis examining how **verbal interaction, physical interaction, and community engagement** influence mental wellbeing among Canadians.
 
 *University of Toronto STA130 Course Project (Oct–Dec 2024)*
@@ -14,7 +14,7 @@ Statistical analysis examining how **verbal interaction, physical interaction, a
 
 ---
 
-## 🔬 Research Questions
+## Research Questions
 
 ### Question 1: Social & Virtual Interactions → Mental Health
 How do face-to-face interactions (friends, coworkers, family) and virtual interactions (video chat, texting) influence self-rated mental health?
@@ -52,7 +52,7 @@ Does frequency of community engagement affect life satisfaction?
 
 ---
 
-## 📊 Methods
+## Methods
 
 - **Linear Regression** — Quantified relationships between predictors and outcomes
 - **Random Forest** — Feature importance analysis
@@ -61,14 +61,14 @@ Does frequency of community engagement affect life satisfaction?
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Statistical Methods**: Multiple regression, correlation analysis, p-value testing
 - **Visualization**: Box plots, stacked bar charts, feature importance plots
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 ├── README.md
 ├── STA130_analysis.ipynb       # Main analysis code
@@ -78,7 +78,7 @@ Does frequency of community engagement affect life satisfaction?
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 1. **Family connections matter most** for in-person mental health benefits
 2. **Virtual group interactions** (not 1-on-1) significantly improve wellbeing
@@ -87,7 +87,7 @@ Does frequency of community engagement affect life satisfaction?
 
 ---
 
-## 👥 Team
+## Team
 - Crystal Li
 - Yu-Hsuan Tsai
 - Zachary Tianyi Tang
@@ -97,14 +97,14 @@ Does frequency of community engagement affect life satisfaction?
 
 ---
 
-## 📚 References
+## References
 - Canadian Social Connection Survey (GenWell & CASCH)
 - Sumioka et al. (2013) — Physical touch and cortisol levels
 - Denison (2004), Tabatabaee et al. (2016) — Therapeutic touch research
 
 ---
 
-## 👤 Contact
+## Contact
 **Crystal W Li**  
 B.Sc. Statistics & Actuarial Science, University of Toronto  
 [LinkedIn](http://linkedin.com/in/crystal-li-baa648351) | [Email](mailto:crystalw.li@mail.utoronto.ca)
