@@ -11,6 +11,7 @@ Statistical analysis examining how **verbal interaction, physical interaction, a
 *University of Toronto STA130 Course Project (Oct–Dec 2024)*
 
 **Dataset:** Canadian Social Connection Survey (GenWell & CASCH) — 10,000+ survey responses
+sources: https://casch.org/cscs
 
 ---
 
