@@ -13,6 +13,7 @@ Statistical analysis examining how **verbal interaction, physical interaction, a
 **Dataset:** Canadian Social Connection Survey (GenWell & CASCH) — 10,000+ survey responses
 sources: https://casch.org/cscs
 
+final presentation powerpoint link: https://docs.google.com/presentation/d/1_l5JKcIfrkQsF-eR9v3ViUqnZCnlhxMO/edit?usp=sharing&ouid=111829264479130500614&rtpof=true&sd=true
 ---
 
 ## Research Questions
